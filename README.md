@@ -2,7 +2,7 @@
 
 Este repositório é um laboratório técnico de experimentação, estudos avançados, provas de conceito e simulações arquiteturais utilizando **Go (Golang)**.
 
-> **ℹ️ Aviso:** Os conteúdos aqui reunidos foram desenvolvidos entre **2019 até hoje**, mesclando estudos pessoais, testes de performance, microserviços e exploração de bibliotecas e práticas modernas do ecossistema Go.
+> **ℹ️ Aviso:** Os conteúdos aqui reunidos foram desenvolvidos entre **2022 até hoje**, mesclando estudos pessoais, testes de performance, microserviços e exploração de bibliotecas e práticas modernas do ecossistema Go.
 
 ---
 
