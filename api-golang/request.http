@@ -1,0 +1,18 @@
+# User
+GET http://localhost:8080/v1/user?id=fb6f62bc-dff5-4db2-a963-2e6b4b465b3f
+
+###
+
+PUT http://localhost:8080/v1/user?id=fb6f62bc-dff5-4db2-a963-2e6b4b465b3f
+content-type: application/json
+	
+{
+  "name":     "Teste UPDATE 342443",
+	"email":    "teste_update@email.com",
+	"password": "123456",
+	"height":   1.80,
+	"weight":   80.0,
+	"age":      20,
+	"gender":   "M",
+	"goal":     1
+}
